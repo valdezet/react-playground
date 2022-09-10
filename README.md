@@ -1,3 +1,8 @@
+# React-playground
+
+My playground repo for trying things with React before using them in my project.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
